@@ -1,0 +1,11 @@
+.announcement {
+  @extend .card;
+}
+
+.announcement-header {
+  margin: $sp-1 0 $sp-3;
+}
+
+.announcement-body {
+  @extend .card-body;
+}

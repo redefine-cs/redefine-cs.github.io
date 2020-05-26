@@ -1,0 +1,23 @@
+<div class="module">
+  <h3 class="module-header"><strong class="module-week">{{ page.week }}</strong> {{ page.title }}</h3>
+  {% if page.days %}
+  <dl class="module-days">
+    {% for day in page.days %}
+    <dt class="module-day">{{ day.date | date: '%b %e' }}</dt>
+    {% for event in day.events %}
+    {% assign main = event | first %}
+    {% assign info = event | last %}
+    {% capture main %}{% include eval.liquid content=main %}{% endcapture %}
+    {% capture info %}{% include eval.liquid content=info %}{% endcapture %}
+    <dd class="module-event">{{ main | markdownify }} {{ info | markdownify }}</dd>
+    {% endfor %}
+    {% endfor %}
+  </dl>
+  {% endif %}
+  {% assign content_strip = content | strip %}
+  {% if content_strip != "" %}
+  <div class="module-body">
+    {{ content }}
+  </div>
+  {% endif %}
+</div>

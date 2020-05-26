@@ -1,0 +1,105 @@
+.page-content .module {
+  @extend .card;
+
+  .module-days {
+    grid-template-columns: 1fr 4fr;
+
+    @include mq(lg) {
+      grid-template-columns: 1fr 7fr;
+    }
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+  }
+
+  dt {
+    font-weight: normal;
+    text-align: right;
+
+    &::after {
+      content: ":";
+    }
+  }
+
+  dd {
+    font-weight: 500;
+  }
+}
+
+.module-week {
+  @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+}
+
+.module-date {
+  @extend .card-header;
+}
+
+.module-header {
+  @extend .card-header;
+}
+
+.module-body {
+  @extend .card-body;
+}
+
+.module-days {
+  margin-bottom: 0;
+
+  .module-day,
+  .module-event {
+    margin: 0;
+    padding: $sp-2;
+
+    @include mq(sm) {
+      padding: $sp-2 $sp-4;
+    }
+
+    p {
+      display: inline-block;
+      margin: 0;
+      width: 100%;
+
+      @include mq(sm) {
+        width: 62.5%;
+      }
+
+      +p {
+        width: auto;
+      }
+    }
+  }
+
+  .module-day {
+    grid-column-start: 1;
+    border-top: $border $border-color;
+
+    +.module-event {
+      border-top: $border $border-color;
+    }
+  }
+
+  .module-event {
+    grid-column-start: 2;
+
+    +.module-event {
+      padding-top: 0;
+    }
+  }
+}
+
+.label.label-hw-out {
+  @extend .label-yellow;
+  @include module-label();
+}
+
+.label.label-hw-due {
+  @extend .label-red;
+  @include module-label();
+}
+
+.label.label-section {
+  @extend .label-purple;
+  @include module-label();
+}
