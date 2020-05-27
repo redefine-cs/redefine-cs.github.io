@@ -9,7 +9,11 @@ description: >-
 
 # {{ site.description }}
 {: .mb-2 }
-{{ site.title }}
+{% if site.logo %}
+  <div class="site-logo"></div>
+{% else %}
+  {{ site.title }}
+{% endif %}
 {: .fs-6 .fw-300 }
 
 {% if site.announcements %}

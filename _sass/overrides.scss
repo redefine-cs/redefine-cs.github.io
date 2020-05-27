@@ -90,3 +90,15 @@ summary {
     height: 100%;
   }
 }
+
+@if variable-exists(logo) {
+  .site-logo {
+    width: 125%;
+    height: 125%;
+    background-image: url($logo);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+

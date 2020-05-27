@@ -20,6 +20,7 @@ email: me@example.com
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://redefine-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+logo: 'assets/images/redefine_logo.png'
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.8
