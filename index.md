@@ -22,12 +22,5 @@ description: >-
 
 **redefine** is a free, virtual summer program targeted at rising freshmen and sophomores. We seek to introduce computer science (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
 
-For more information about [the program](about), [the curriculum](calendar), and [the course staff](staff) please check out the links on the left.
-
-## Computing Requirements & Prerequisites
-
-All students need to participate is access to a computer and an internet connection. **redefine** will be taught completely over video chat.
-
-For math prerequisites, students should be comfortable with algebra. There are no programming-related prerequisites for this course.
-
+For more information about [the program](about) and [the course staff](staff) please check out the links on the left.
 ![](assets/illustrations/guy.png)
