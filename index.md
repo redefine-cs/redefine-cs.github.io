@@ -14,7 +14,8 @@ description: >-
 {% endif %}
 {: .fs-6 .fw-300 }
 
-# {{ site.description }}
+# {{ site.title }}
+#### {{ site.description }}
 
 {% if site.announcements %}
 {{ site.announcements.last }}
