@@ -22,5 +22,4 @@ description: >-
 
 **redefine** is a free, virtual summer program targeted at rising freshmen and sophomores. We seek to introduce computer science (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
 
-For more information about [the program](about) and [the course staff](staff) please check out the links on the left.
-![](assets/illustrations/guy.png)
+For more information about [the program](about) and [the course staff](staff), please check out the links on the left.

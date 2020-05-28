@@ -17,18 +17,70 @@ description: >-
 
 ---
 
-## About
+## Course Description
+**redefine** was started to promote diversity within computer science by encouraging more high schoolers to enter the space feeling confident and prepared, especially those students who may have never considered before. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Despite the numerous innovations, high-growth startups, and venture-capital boom we have witnessed over the past few decades, the computer science community remains [very homogenous](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). However, here at **redefine** we are hopeful that this cycle can be broken by exposing students to technical tools and theoretical concepts at a younger age and by embracing diversity in the field earlier on. 
 
-## Lecture
+We believe in the power of *personalized* education as a meaningful way to sustainably impact learning and personal development. The **redefine** program will always use live instruction and encourage community-building through group-work whenever possible. Moreover, instruction will be supplemented by guest-speakers and talks that will highlight how computer science permeates many industries. 
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+The program is expected to run over two months, from mid-June to mid-August. Keep up-to-date with all our announcements by filling out the form [here](https://redefine-cs.github.io/interest). We’re excited to hear from you! 
 
-## Resources
+## Prerequisites
+For math, students should be comfortable with algebra. There are no programming-related prerequisites for this program. 
+## Requirements
+**redefine** is completely virtual and free for students. The only requirements for participation in this program is access to a computer and an internet connection. 
+For lectures, talks, and work sessions, we will be using [Zoom](https://zoom.us/). 
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+For homework and in-class exercises, we will be using [Google Colaboratory](https://colab.research.google.com)  and Google Docs. To use Colaboratory and Google Docs, you will need a Google (Gmail) account or [create one](https://support.google.com/accounts/answer/27441?hl=en) if you do not already have an account. If you’d like to get acclimated with Colaboratory, you can find instructions on getting started [here](https://colab.research.google.com/notebooks/intro.ipynb), but feel free to wait as we’ll be introducing it during our first lecture.
 
-## Assignments
+If you need help with any of the above, feel free to reach out to us at `redefinecs.staff@gmail.com`. 
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Course Structure
+
+The program will run for eight weeks starting in mid-June (exact start date TBD). Each week, we will have 3-5 hours of instruction per week, with 2 hours of interdisciplinary talks per week, and roughly 3-4 hours of homework per week. 
+
+## List of Topics To Be Covered (Tentative & Subject to Change)
+
+#### Week 1
+* Introductions & Community Building
+* CS Overview & History
+* Theory: Basic Logic
+
+#### Week 2
+* Theory: Formal Proofs & Combinatorics
+* Programming: Types, Variables, Math & Assignment Operators
+* CS Industry Dive
+
+#### Week 3
+* Theory: Combinatorics & Set Theory
+* Programming: Lists, Loops & Conditions
+* CS x Art
+
+#### Week 4
+* Theory: Probability & Random Variables
+* Programming: Scoping & Functions 
+* CS x Economics/Finance
+
+#### Week 5
+* Theory: Expectation & Variance
+* Programming: Recursion 
+* CS x Healthcare
+
+#### Week 6
+* Theory: Graphs
+* Programming: Search & Sort Algorithms 
+* CS x Criminology/Law
+
+#### Week 7
+* Theory: Probability & Random Variables
+* Programming: Data Structures & Graphs
+* CS x Entrepreneurship
+* Introductory Data Science
+
+#### Week 8
+* Theory: Review
+* Programming: Review
+* CS x Ethics
+* Congratulations & Next Steps!
+
