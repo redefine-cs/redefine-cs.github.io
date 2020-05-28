@@ -15,12 +15,16 @@ description: >-
 {% endif %}
 {: .fs-6 .fw-300 }
 
+# redefine
+### Summer 2020
+
 {% if site.announcements %}
 {{ site.announcements.last }}
 {% endif %}
 
-## redefine 
+## Description 
 
 **redefine** is a virtual summer program targeted at rising freshmen and sophomores to computer science. We seek to introduce CS (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
 
-For more information about [the program](about), [the curriculum](curriculum), and the [course staff](staff) please check out the links on the left.
+For more information about [the program](about), [the curriculum](calendar), and the [course staff](staff) please check out the links on the left.
+
