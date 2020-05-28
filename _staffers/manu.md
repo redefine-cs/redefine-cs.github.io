@@ -3,7 +3,7 @@ name: Manu Prakasam
 role: Instructor
 email: mprakasam@berkeley.edu
 website: https://www.linkedin.com/in/manu-prakasam/
-photo: /assets/images/nishita.jpeg
+photo: /assets/images/manu.jpeg
 ---
 
-Nishita Jain is a current senior at Penn, studying Criminoloy and Tabla. She likes to watch TV, and that's pretty much it. 
+Manu Prakasam recently graduated *virtually* from Berkeley with a degree in Electrical Engineering and Computer Science. He's interested in environmentalism, tennis, and data privacy, but mainly spends his time rewatching Avatar: The Last Airbender these days. 
