@@ -14,17 +14,15 @@ description: >-
 {% endif %}
 {: .fs-6 .fw-300 }
 
-# {{ site.description }}
-
 {% if site.announcements %}
 {{ site.announcements.last }}
 {% endif %}
 
 ## Program Details  
 
-**redefine** is a free summer program targeted at rising freshmen and sophomores to computer science. We seek to introduce computer science (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
+**redefine** is a free, virtual summer program targeted at rising freshmen and sophomores. We seek to introduce computer science (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
 
-For more information about [the program](about), [the curriculum](calendar), and the [course staff](staff) please check out the links on the left.
+For more information about [the program](about), [the curriculum](calendar), and [the course staff](staff) please check out the links on the left.
 
 ## Computing Requirements & Prerequisites
 
