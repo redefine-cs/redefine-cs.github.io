@@ -3,8 +3,7 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Just the Class is a modern, highly customizable, responsive Jekyll theme
-    for developing course websites.
+    redefine is a virtual summer program introducing high schoolers to computer science.
 ---
 
 {: .mb-2 }
@@ -15,8 +14,7 @@ description: >-
 {% endif %}
 {: .fs-6 .fw-300 }
 
-# redefine
-### Summer 2020
+# {{ site.description }}
 
 {% if site.announcements %}
 {{ site.announcements.last }}
@@ -24,7 +22,13 @@ description: >-
 
 ## Description 
 
-**redefine** is a virtual summer program targeted at rising freshmen and sophomores to computer science. We seek to introduce CS (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
+**redefine** is a free summer program targeted at rising freshmen and sophomores to computer science. We seek to introduce computer science (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
 
 For more information about [the program](about), [the curriculum](calendar), and the [course staff](staff) please check out the links on the left.
+
+## Computing Requirements & Prerequisites
+
+All students need to participate in this course is access to a computer and an internet connection. **redefine** will be taught completely over video chat.
+
+For math prerequisites, students should be comfortable with algebra. There are no programming-related prerequisites for this course.
 
