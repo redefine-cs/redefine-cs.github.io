@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Calendar
-nav_order: 2
+title: Curriculum
+nav_order: 3
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Curriculum
 
 {% for module in site.modules %}
 {{ module }}

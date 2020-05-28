@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Redefine CS
-description: A summer program to introduce high schoolers to CS.
+description: A two-week summer program for CS.
 author: Redefine CS Course Staff
 email: me@example.com
 baseurl: '' # the subpath of your site, e.g. /blog
