@@ -30,3 +30,4 @@ All students need to participate is access to a computer and an internet connect
 
 For math prerequisites, students should be comfortable with algebra. There are no programming-related prerequisites for this course.
 
+![](assets/illustrations/guy.png)
