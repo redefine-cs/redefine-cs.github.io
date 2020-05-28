@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Redefine CS
-description: A two-week summer program for CS.
-author: Redefine CS Course Staff
+title: Redefine
+description: A two month summer program for CS.
+author: Redefine Course Staff
 email: me@example.com
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://redefine-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
