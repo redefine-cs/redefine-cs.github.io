@@ -31,45 +31,45 @@ If you need help with any of the above, feel free to reach out to us at `redefin
 
 The program will run for eight weeks starting in mid-June (exact start date TBD). Each week, we will have 3-5 hours of instruction per week, with 2 hours of interdisciplinary talks per week, and roughly 3-4 hours of homework per week.
 
-## List of Topics To Be Covered (Tentative & Subject to Change)
+## Topics Covered (Tentative)
 
-#### Week 1
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 1 </p>
 * Introductions & Community Building
 * CS Overview & History
 * Theory: Basic Logic
 
-#### Week 2
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 2 </p>
 * Theory: Formal Proofs & Combinatorics
 * Programming: Types, Variables, Math & Assignment Operators
 * CS Industry Dive
 
-#### Week 3
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 3 </p>
 * Theory: Combinatorics & Set Theory
 * Programming: Lists, Loops & Conditions
 * CS x Art
 
-#### Week 4
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 4 </p>
 * Theory: Probability & Random Variables
 * Programming: Scoping & Functions
 * CS x Economics/Finance
 
-#### Week 5
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 5 </p>
 * Theory: Expectation & Variance
 * Programming: Recursion
 * CS x Healthcare
 
-#### Week 6
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 6 </p>
 * Theory: Graphs
 * Programming: Search & Sort Algorithms
 * CS x Criminology/Law
 
-#### Week 7
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 7 </p>
 * Theory: Probability & Random Variables
 * Programming: Data Structures & Graphs
 * CS x Entrepreneurship
 * Introductory Data Science
 
-#### Week 8
+<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 8 </p>
 * Theory: Review
 * Programming: Review
 * CS x Ethics
