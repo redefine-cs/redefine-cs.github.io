@@ -28,3 +28,7 @@ We believe in the power of *personalized* education as a meaningful way to susta
 The program is expected to run over two months, from mid-June to mid-August. Keep up-to-date with all our announcements by filling out the form [here](https://redefine-cs.github.io/interest). We’re excited to hear from you!
 
 For more information about [the syllabus](syllabus) and [the program staff](staff), check out the links on the left.
+
+<br>
+
+![png](assets/illustrations/frontpage.png)
