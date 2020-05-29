@@ -64,7 +64,7 @@ The program will run for eight weeks starting in mid-June (exact start date TBD)
 * CS x Criminology/Law
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 7 </p>
-* Theory: Probability & Random Variables
+* Theory: More Graphs
 * Programming: Data Structures & Graphs
 * CS x Entrepreneurship
 * Introductory Data Science
