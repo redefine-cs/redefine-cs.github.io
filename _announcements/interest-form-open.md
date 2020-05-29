@@ -1,5 +1,5 @@
 ---
-title: Interest Form! 
+title: Interest Form!
 week: 0
 ---
 

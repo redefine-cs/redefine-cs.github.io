@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Curriculum
-nav_order: 3
-description: Listing of course modules and topics.
+title: Calendar
+nav_exclude: true
+description: Weekly course calendar with lectures and assignments.
 ---
 
-# Curriculum
+# Calendar
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+The course calendar is still in the works and will be released at a later date!
