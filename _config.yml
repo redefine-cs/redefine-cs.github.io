@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Redefine
 description: A two month summer program for CS.
-author: Redefine Course Staff
+author: Redefine Program Staff
 email: me@example.com
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://redefine-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
