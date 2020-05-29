@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Staff
-nav_order: 4
-description: A listing of all the course staff members.
+title: Program Staff
+nav_order: 2
+description: A listing of all the program staff members.
 ---
 
 # Program Staff
 
-Please reach out to `redefinecs.staff@gmail.com` if you have any general questions. 
+Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
 
 ## Instructors
 

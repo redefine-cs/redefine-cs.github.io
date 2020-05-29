@@ -1,3 +1,3 @@
 # Redefine CS
 
-Redefine CS Course Website
+Redefine CS Program Website

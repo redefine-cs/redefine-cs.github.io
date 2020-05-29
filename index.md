@@ -18,8 +18,13 @@ description: >-
 {{ site.announcements.last }}
 {% endif %}
 
-## Program Details  
+## Program Description
+**redefine** is a free, virtual summer program targeted at rising freshmen and sophomores. Motivated by a vision of a more equitable and ethical tech industry, we seek to encourage more high schoolers to enter the space feeling confident and prepared, especially those students who may have never considered it before.
 
-**redefine** is a free, virtual summer program targeted at rising freshmen and sophomores. We seek to introduce computer science (programming and theory) to students who otherwise might not have considered it as a career option. We’re motivated by a vision of a more equitable and ethical tech industry through increased diversity and representation.
+Despite the numerous innovations, high-growth startups, and venture-capital boom we have witnessed over the past few decades, the computer science community remains [very homogenous](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). However, here at **redefine** we are hopeful that this cycle can be broken by exposing students to technical tools and theoretical concepts at a younger age and by embracing diversity in the field earlier on.
 
-For more information about [the program](about) and [the course staff](staff), please check out the links on the left.
+We believe in the power of *personalized* education as a meaningful way to sustainably impact learning and personal development. The **redefine** program will always use live instruction and encourage community-building through group-work whenever possible. Moreover, instruction will be supplemented by guest-speakers and talks that will highlight how computer science permeates many industries.
+
+The program is expected to run over two months, from mid-June to mid-August. Keep up-to-date with all our announcements by filling out the form [here](https://redefine-cs.github.io/interest). We’re excited to hear from you!
+
+For more information about [the syllabus](syllabus) and [the program staff](staff), check out the links on the left.
