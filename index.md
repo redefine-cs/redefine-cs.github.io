@@ -17,7 +17,8 @@ description: >-
 {% if site.announcements %}
 {{ site.announcements.last }}
 {% endif %}
-
+<br>
+![png](assets/illustrations/frontpage.png)
 ## Program Description
 **redefine** is a free, virtual summer program targeted at rising freshmen and sophomores. Motivated by a vision of a more equitable and ethical tech industry, we seek to encourage more high schoolers to enter the space feeling confident and prepared, especially those students who may have never considered it before.
 
@@ -28,7 +29,3 @@ We believe in the power of *personalized* education as a meaningful way to susta
 The program is expected to run over two months, from mid-June to mid-August. Keep up-to-date with all our announcements by filling out the form [here](https://redefine-cs.github.io/interest). We’re excited to hear from you!
 
 For more information about [the syllabus](syllabus) and [the program staff](staff), check out the links on the left.
-
-<br>
-
-![png](assets/illustrations/frontpage.png)
