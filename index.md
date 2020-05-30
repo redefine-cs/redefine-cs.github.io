@@ -14,6 +14,11 @@ description: >-
 {% endif %}
 {: .fs-6 .fw-300 }
 
+<p> 
+    <span style="font-size:3em; font-weight: 500; color:#27262b">redefine</span> <br>
+<span style="font-size:1.5em; font-weight: 200; color:#27262b"> a two month introductory CS summer program for high schoolers</span> 
+  </p>
+
 {% if site.announcements %}
 {{ site.announcements.last }}
 {% endif %}
