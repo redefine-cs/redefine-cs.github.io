@@ -28,7 +28,11 @@ If you need help with any of the above, feel free to reach out to us at `redefin
 
 ## Program Structure
 
-The program will run from late June to mid August. Each week, we will have around 4 hours of instruction, 2 hours of interdisciplinary talks, and 4 hours of homework, with additional collaborative work sessions and office hours. 
+The program will run from late June to mid-August. Each week, we will have around 4 hours of instruction, 2 hours of interdisciplinary talks, and 4 hours of homework, with additional collaborative work sessions and office hours.
+
+## Acknowledgments
+
+We would like to thank Professor Rajiv Gandhi from the University of Pennsylvania and Rutgers University-Camden for his continued help and support with this program.
 
 ## Topics Covered (Tentative)
 
