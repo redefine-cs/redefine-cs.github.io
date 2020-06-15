@@ -31,6 +31,6 @@ Despite the numerous innovations, high-growth startups, and venture-capital boom
 
 We believe in the power of *personalized* education as a meaningful way to sustainably impact learning and personal development. The **redefine** program will always use live instruction and encourage community-building through group-work whenever possible. Moreover, instruction will be supplemented by guest-speakers and talks that will highlight how computer science permeates many industries.
 
-The program is expected to run over two months, from late June to mid-August. Keep up-to-date with all our announcements by filling out the form [here](https://redefine-cs.github.io/interest). We’re excited to hear from you!
+The program will run from June 24th until August 8th. The application deadline is **Wednesday, June 17th by 5:00pm your local time.** Apply [here](interest). We’re excited to hear from you!
 
 For more information about [the syllabus](syllabus) and [the program staff](staff), check out the links on the left.
