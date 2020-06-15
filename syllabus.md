@@ -28,7 +28,7 @@ If you need help with any of the above, feel free to reach out to us at `redefin
 
 ## Program Structure
 
-The program will run from late June to mid-August. Each week, we will have around 4 hours of instruction, 2 hours of interdisciplinary talks, and 4 hours of homework, with additional collaborative work sessions and office hours.
+The program will run from June 24th until August 8th. Each week, we will have around 4 hours of instruction, 2 hours of interdisciplinary talks, and 4 hours of homework, with additional collaborative work sessions and office hours. For US-based students, lectures will be held on Wednesday evening and Saturday morning (Pacific Time). For students based in Rwanda, lectures will be held on Saturday evening (Central Africa Time). Mentorship sessions will be 30-minutes each week and self-scheduled per mentor/student availability.
 
 ## Acknowledgments
 
@@ -43,16 +43,16 @@ We would like to thank Professor Rajiv Gandhi from the University of Pennsylvani
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 2 </p>
 * Programming: Types, Variables, Math & Assignment Operators
-* CS Industry Dive
+* CS x Environmental Science
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 3 </p>
 * Programming: Lists, Loops & Conditions
-* CS x Art
+* CS x Journalism
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 4 </p>
 * Theory: Basic Probability
 * Programming: Scoping & Functions
-* CS x Economics/Finance
+* CS x Sports
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 5 </p>
 * Theory: Basic Statistics
@@ -63,15 +63,10 @@ We would like to thank Professor Rajiv Gandhi from the University of Pennsylvani
 * Theory: Graphs
 * Programming: Search & Sort Algorithms
 * CS x Criminology/Law
+* Introductory Data Science
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 7 </p>
 * Theory: More Graphs
 * Programming: Data Structures & Graphs
-* CS x Entrepreneurship
-* Introductory Data Science
-
-<p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 8 </p>
-* Theory: Review
-* Programming: Review
 * CS x Ethics
 * Congratulations & Next Steps!
