@@ -39,6 +39,7 @@ We would like to thank Professor Rajiv Gandhi from the University of Pennsylvani
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 1 </p>
 * Introductions & Community Building
 * CS Overview & History
+* College Student Panel
 * Theory: Basic Logic
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 2 </p>
