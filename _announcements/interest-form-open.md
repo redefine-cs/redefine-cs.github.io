@@ -1,7 +1,7 @@
 ---
-title: Interest Form!
+title: Application Form!
 week: 0
 ---
 
-We've just opened our Summer 2020 program's interest form! Keep up-to-date with all our announcements by filling out the form [here](interest).
+We've opened our Summer 2020 program's application form! The application deadline is **Wednesday, June 17th by 5:00pm your local time.** Apply [here](interest).
 {: .fs-5 }
