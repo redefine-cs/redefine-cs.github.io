@@ -9,7 +9,7 @@ description: A listing of all the program staff members.
 
 Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
 
-## Instructors
+## Instructors & Mentors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
