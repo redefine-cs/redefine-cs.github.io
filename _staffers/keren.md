@@ -3,7 +3,7 @@ name: Keren Fuentes
 role: Instructor
 email: kerenfuentes313@gmail.com
 website: https://www.linkedin.com/in/keren-d-fuentes
-photo: /assets/images/mentors/rebecca.jpeg
+photo: /assets/images/mentors/keren.JPG
 pronouns: she/her
 ---
 
