@@ -3,7 +3,7 @@ name: Ismail Javed
 role: Instructor
 email: javedi@berkeley.edu
 website: https://www.linkedin.com/in/ismail-javed/
-photo: /assets/images/mentors/elena.png
+photo: /assets/images/mentors/ismail.jpg
 pronouns: he/him
 ---
 
