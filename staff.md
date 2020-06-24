@@ -11,15 +11,8 @@ Please reach out to `redefinecs.staff@gmail.com` if you have any general questio
 
 ## Instructors
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers %}
 {% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-
-## Mentors
-
-{% assign mentors = site.staffers | where: 'role', 'Mentor' %}
-{% for staffer in mentors %}
 {{ staffer }}
 {% endfor %}
 

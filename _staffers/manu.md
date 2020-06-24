@@ -8,4 +8,4 @@ pronouns: he/him
 ---
 
 
-Manu Prakasam recently graduated from UC Berkeley with a degree in Electrical Engineering and Computer Science. He's interested in environmentalism, tennis, and data privacy, but these days he mainly spends his free time rewatching *Avatar: The Last Airbender*.  
+**(Instructor)** Manu Prakasam recently graduated from UC Berkeley with a degree in Electrical Engineering and Computer Science. He's interested in environmentalism, tennis, and data privacy, but these days he mainly spends his free time rewatching *Avatar: The Last Airbender*.  
