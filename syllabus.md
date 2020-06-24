@@ -28,46 +28,43 @@ If you need help with any of the above, feel free to reach out to us at `redefin
 
 ## Program Structure
 
-The program will run from June 24th until August 8th. Each week, we will have around 4 hours of instruction, 2 hours of interdisciplinary talks, and 4 hours of homework, with additional collaborative work sessions and office hours. For US-based students, lectures will be held on Wednesday evening and Saturday morning (Pacific Time). For students based in Rwanda, lectures will be held on Saturday evening (Central Africa Time). Mentorship sessions will be 30-minutes each week and self-scheduled per mentor/student availability.
+The program will run from June 24th until August 8th. Each week, we will have around 4 hours of instruction, 1 hour of interdisciplinary talks, and 4 hours of homework, with additional collaborative work sessions and office hours. For US-based students, lectures will be held on Wednesday evening and Saturday morning (Pacific Time). For students based in Rwanda, lectures will be held on Saturday evening (Central Africa Time). Mentorship sessions will be 30-minutes each week and self-scheduled per mentor/student availability.
 
 ## Acknowledgments
 
-We would like to thank Professor Rajiv Gandhi from the University of Pennsylvania and Rutgers University-Camden for his continued help and support with this program.
+We would like to thank Professor Rajiv Gandhi from the University of Pennsylvania and Rutgers University-Camden for his continued help and support with this program. We would also like to acknowledge USVICoder and AddisCoder, led by Professor Jelani Nelson from the University of California, Berkeley, from which much of our material is adapted.
 
 ## Topics Covered (Tentative)
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 1 </p>
-* Introductions & Community Building
-* CS Overview & History
-* College Student Panel
-* Theory: Basic Logic
+* Introductions, Data Types, Logic, Variables
+* Data Structures and Functions
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 2 </p>
-* Programming: Types, Variables, Math & Assignment Operators
+* Programming Principles and Control Flow
+* Recursion
 * CS x Environmental Science
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 3 </p>
-* Programming: Lists, Loops & Conditions
-* CS x Journalism
+* Extended Lab Session
+* Binary Search and Sorting
+* Interdisciplinary Talk (TBD)
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 4 </p>
-* Theory: Basic Probability
-* Programming: Scoping & Functions
-* CS x Sports
+* Sorting and Complexity
+* Graphs and Trees
+* Interdisciplinary Talk (TBD)
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 5 </p>
-* Theory: Basic Statistics
-* Programming: Recursion
-* CS x Healthcare
+* Algorithms
+* Objects
+* Interdisciplinary Talk (TBD)
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 6 </p>
-* Theory: Graphs
-* Programming: Search & Sort Algorithms
-* CS x Criminology/Law
-* Introductory Data Science
+* Data Science
+* Interdisciplinary Talk (TBD)
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 7 </p>
-* Theory: More Graphs
-* Programming: Data Structures & Graphs
-* CS x Ethics
-* Congratulations & Next Steps!
+* Extended Lab Session
+* Interdisciplinary Talk (TBD)
+* Celebration & Next Steps!
