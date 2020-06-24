@@ -8,7 +8,7 @@ pronouns: she/her
 ---
 
 
-**(Mentor)** Hi, I’m Keren! I graduated from the University of Pennsylvania in 2019, and I’m now a software engineer at Microsoft. I really enjoy hiking, running, playing the violin, and playing with doggos.
+Hi, I’m Keren! I graduated from the University of Pennsylvania in 2019, and I’m now a software engineer at Microsoft. I really enjoy hiking, running, playing the violin, and playing with doggos.
 
 
 
