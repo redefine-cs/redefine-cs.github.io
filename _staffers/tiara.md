@@ -8,4 +8,4 @@ pronouns: she/her
 ---
 
 
-Tiara Sykes is a rising senior at Columbia University studying Computer Science with a track focus in Intelligent Systems. She took her first CS course as a freshman in college. She interned last summer at The New York Times as a Frontend Engineer. This summer she returned to The New York Times as a Backend Engineer. In her free time, Tiara enjoys listening  to music and exploring music production. She also enjoys playing video games. 
+Tiara Sykes is a rising senior at Columbia University studying Computer Science with a track focus in Intelligent Systems. She took her first CS course as a freshman in college. She interned last summer at The New York Times as a Frontend Engineer. This summer she returned to The New York Times as a Backend Engineer. In her free time, Tiara enjoys listening to music and exploring music production. She also enjoys playing video games. 
