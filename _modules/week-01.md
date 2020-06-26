@@ -10,7 +10,7 @@ days:
         null 
   - date: 2019-06-27
     events:
-      "[Data Structures, Functions](#)":
+      "[Lists, Dictionaries, Functions](#)":
         null
   - date: 2019-06-29
     events:
