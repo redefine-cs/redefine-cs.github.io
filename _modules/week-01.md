@@ -1,15 +1,15 @@
 ---
 week: 1
-title: Week 1
+title: Getting Started with Python
 days:
   - date: 2020-06-24
     events:
-      "Data Types, Operations, Variables":
+      "[Data Types, Operations, Variables](#)":
         null
-      "**HW**{: .label .label-hw-out } HW 1 File":
-        HW 1 Solutions
-  - date: 2020-04-09
+      "**HW 1 out**{: .label .label-section } [Questions](#)":
+        Solutions
+  - date: 2020-06-27
     events:
-      "Lists, Dictionaries, Functions":
+      "[Lists, Dictionaries, Functions](#)":
         null
 ---
