@@ -1,29 +1,23 @@
 ---
 week: 1
-title: Introduction to Java
+title: Week 1
 days:
-  - date: 2019-04-01
+  - date: 2020-06-24
     events:
-      "[Java & Git](#)":
-        "[1.1](#)"
-      "**HW 1 out**{: .label .label-hw-out }":
+      "[Data Types, Operations, Variables](#)":
         null
-  - date: 2019-04-02
+      "**HW 1 out**{: .label .label-hw-out }" [Colab File](#):
+        null 
+  - date: 2019-06-27
     events:
-      "**Section**{: .label .label-section } [Intro to Java](#)":
-        "Solution"
-  - date: 2019-04-03
-    events:
-      "[Variables & Objects](#)":
-        "[1.2](#), [2.1](#)"
-  - date: 2019-04-04
-    events:
-      "**Lab**{: .label } [Intro to Java](#)":
+      "[Data Structures, Functions](#)":
         null
-  - date: 2019-04-05
+  - date: 2019-06-29
     events:
-      "[Tracing, IntLists, & Recursion](#)":
-        "[2.1](#)"
-      "**HW 1 due**{: .label .label-hw-due }":
+      "[CS x Environmental Science](#)":
+        null
+  - date: 2019-06-30
+    events:
+      "**HW 1 due**{: .label .label-hw-due }" [HW 1 Solutions](#):
         null
 ---
