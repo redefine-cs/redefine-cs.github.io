@@ -1,6 +1,6 @@
 .schedule {
   @include abstract-card();
-  overflow-x: scroll;
+  overflow-x: visible;
   position: relative;
 
   li::before {
@@ -94,7 +94,7 @@
   }
 
   &.lecture {
-    background-color: $grey-dk-000;
+    background-color: $purple-000;
   }
 
   &.section {
