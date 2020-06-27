@@ -1,7 +1,7 @@
 ---
 name: Ayyah Alhuraibi 
 role: Mentor
-email: ayyah@seas.upenn.edu
+email: ayyah.alhuraibi@gmail.com
 website: https://www.linkedin.com/in/ayyah-alhuraibi-3b4123182/
 photo: /assets/images/mentors/ayyah.jpg
 pronouns: she/her
