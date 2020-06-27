@@ -1,5 +1,9 @@
 ---
 timeline:
+  - '7:00 AM'
+  - '7:30 AM'
+  - '8:00 AM'
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -18,49 +22,70 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
+  - '8:30 PM'
 schedule:
+  - name: Sunday
+    events:
+      - name: Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Keren & Abdoul Aziz
+      - name: Office Hours
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Ismail & Tiara
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Hannah & Reno
   - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Elena & Jeane
+      - name: Office Hours
+        start: 7:00 PM
+        end: 8:00 PM
+        location: Omotara & Becca
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 6:00 PM
+        end: 8:00 PM
+        location: US Students
   - name: Thursday
+    events:
+      - name: Office Hours
+        start: 8:00 PM
+        end: 9:00 PM
+        location: Shirali & Manu
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 8:00 AM
+        end: 9:00 AM
+        location: Deniz & Fran
+      - name: Office Hours
+        start: 6:00 PM
+        end: 7:00 PM
+        location: Ayyah & Nishita
+  - name: Saturday
+    events:
+      - name: Lecture
+        start: 7:00 AM
+        end: 9:00 AM
+        location: Rwandan Students
+      - name: Lecture
+        start: 10:00 AM
+        end: 12:00 PM
+        location: All Students
+ 
 ---

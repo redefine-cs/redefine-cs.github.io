@@ -10,6 +10,6 @@ days:
         Solutions
   - date: 2020-06-27
     events:
-      "Lists, Dictionaries, Functions":
+      "Data Structures and Functions":
         null
 ---

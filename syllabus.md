@@ -37,7 +37,7 @@ We would like to thank Professor Rajiv Gandhi from the University of Pennsylvani
 ## Topics Covered (Tentative)
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 1 </p>
-* Introductions, Data Types, Logic, Variables
+* Data Types, Operations, and Variables
 * Data Structures and Functions
 
 <p style="font-size: 12px;text-transform: uppercase;font-weight: 300;letter-spacing: 0.1em;color: #27262b;"> Week 2 </p>

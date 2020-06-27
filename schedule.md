@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Schedule
-nav_exclude: true
+title: Weekly Schedule
+nav_over: 4
 description: The weekly event schedule.
 ---
 
 # Weekly Schedule
 
-The weekly schedule is still in the works and will be released at a later date! 
+{% for schedule in site.schedules %} {{ schedule }} {% endfor %}
