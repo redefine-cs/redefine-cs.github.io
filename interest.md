@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Application Form
-nav_order: 5
+nav_order: 4
 description: Application form for the Summer 2020 program.
 ---
 
