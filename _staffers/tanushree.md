@@ -3,7 +3,7 @@ name: Tanushree Jain
 role: Teaching Assistant
 email: tanu.jain@berkeley.edu
 website: https://www.linkedin.com/in/tanushree-jain-593a461b6/
-photo: /assets/images/shirali.jpeg
+photo: /assets/images/tanushree.jpeg
 pronouns: she/her
 ---
 
