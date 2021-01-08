@@ -16,7 +16,7 @@ Please reach out to `redefinecs.staff@gmail.com` if you have any general questio
 {{ staffer }}
 {% endfor %}
 
-## Teaching Assistant
+## Teaching Assistants
 
 {% assign assistant = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% for staffer in assistant %}
