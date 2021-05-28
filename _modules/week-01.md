@@ -1,4 +1,4 @@
----
+<!-- ---
 week: 1
 title: Getting Started with Python
 days:
@@ -13,3 +13,4 @@ days:
       "Data Structures and Functions":
         null
 ---
+ -->

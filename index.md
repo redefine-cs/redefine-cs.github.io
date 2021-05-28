@@ -19,6 +19,10 @@ description: >-
 <span style="font-size:1em; font-weight: 200; color:#27262b"> an introductory computer science summer program for high schoolers</span> 
   </p>
 
+{% if site.announcements %}
+{{ site.announcements.last }}
+{% endif %}
+
 <br>
 ![png](assets/illustrations/frontpage.png)
 ## Program Description
