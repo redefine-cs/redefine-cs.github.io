@@ -36,17 +36,17 @@ Each student will also be assigned a mentor, with whom they will meet on a weekl
 
 This is our second iteration of **redefine**, following a successful inaugural program in the summer of 2020. We had a phenomenal batch of students in the first session — we are excited to share some student thoughts from the exit survey we conducted last year.
 
-	- *“[My favorite part was] learning to code, it's like a whole new world! It really opened my eyes to new possibilities and maybe a new major interest. Also, meeting new people.”*
+*- “[My favorite part was] learning to code, it's like a whole new world! It really opened my eyes to new possibilities and maybe a new major interest. Also, meeting new people.”*
 
-	- *“[I enjoyed] the love and support shared to us by the instructors and mentors. The lectures were given in an organised way. The guest speeches were very helpful and interesting. We got to meet new friendly community.”*
+*- “[I enjoyed] the love and support shared to us by the instructors and mentors. The lectures were given in an organised way. The guest speeches were very helpful and interesting. We got to meet new friendly community.”*
 
-	- *"I enjoyed learning from you... [it] really inspired me to work hard and learn a lot more of coding... I wouldn't have asked for a better program to be in."*
+*-"I enjoyed learning from you... [it] really inspired me to work hard and learn a lot more of coding... I wouldn't have asked for a better program to be in."*
 
-	- *"My mentor was amazing, I enjoyed the mentor meetings because he would help me on every little detail of code until I understood it. When the meeting should have been 30 minutes, it would take almost 2 hours. It was very useful and helpful when doing my homework."*
+*- "My mentor was amazing, I enjoyed the mentor meetings because he would help me on every little detail of code until I understood it. When the meeting should have been 30 minutes, it would take almost 2 hours. It was very useful and helpful when doing my homework."*
 
-	- *"[My favorite lecture topic was] cryptography. It was challenging to learn at first, but once I got the hang of it (well sort of) it is really fascinating to work with."*
+*- "[My favorite lecture topic was] cryptography. It was challenging to learn at first, but once I got the hang of it (well sort of) it is really fascinating to work with."*
 
-	- *"I still want to pursue architecture, but I'm also interested in how I can use computer science as well to help with designing better elevations and floor plans."*
+*- "I still want to pursue architecture, but I'm also interested in how I can use computer science as well to help with designing better elevations and floor plans."*
 
 We are thankful for our wonderful students and are so glad they have enjoyed learning computer science through our program. In fact, 71% of our alumni students have indicated that they intend to major in computer science in college. We look forward to following all of their bright futures — and to welcoming new students this summer!  
 

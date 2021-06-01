@@ -2,7 +2,7 @@
 name: Sidrah Siddiqui
 role: Operations
 email: sidrah.siddiqui@berkeley.edu
-website: https://www.linkedin.com/in/tanushree-jain-593a461b6/
+website: https://www.linkedin.com/in/sidrahsiddiqui/
 photo: /assets/images/sidrah.jpeg
 pronouns: she/her
 ---
