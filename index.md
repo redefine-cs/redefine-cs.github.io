@@ -32,4 +32,4 @@ Despite the numerous innovations, high-growth startups, and venture-capital boom
 
 We believe in the power of *personalized* education as a meaningful way to sustainably impact learning and personal development. The **redefine** program will always use live instruction and encourage community-building through group-work whenever possible. Moreover, instruction will be supplemented by guest-speakers and talks that will highlight how computer science permeates many industries.
 
-The program will run from June 24th until August 8th. For more information about [the syllabus](syllabus) and [the program staff](staff), check out the links on the left.
+The course will run from June 26th until August 14th. For more information about [the program](program) and [the staff](staff), check out the links on the left.

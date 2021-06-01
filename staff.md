@@ -16,6 +16,12 @@ Please reach out to `redefinecs.staff@gmail.com` if you have any general questio
 {{ staffer }}
 {% endfor %}
 
+## Operations
+{% assign ops = site.staffers | where: 'role', 'Operations' %}
+{% for staffer in ops %}
+{{ staffer }}
+{% endfor %}
+
 <!-- ## Teaching Assistants
 
 {% assign assistant = site.staffers | where: 'role', 'Teaching Assistant' %}
