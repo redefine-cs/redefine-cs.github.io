@@ -5,7 +5,7 @@ nav_order: 4
 description: Application form for the Summer 2021 program.
 ---
 
-The application form for the Summer 2021 program has opened! The application deadline is **Wednesday, June 16th by 5:00pm your local time.**
+The application form for the Summer 2021 program has opened! The application deadline has been extended to **Sunday, June 20th by 12:00pm (noon) your local time.**
 
 Please reach out to us at `redefinecs.staff@gmail.com` if you have any questions about the program. 
 
