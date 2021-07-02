@@ -3,7 +3,7 @@ name: Rebecca Iglesias-Flores
 role: Mentor
 email:
 website: https://www.linkedin.com/in/greedykruskal/
-photo: /assets/images/rebecca.jpeg
+photo: /assets/images/IMG_3865.JPG
 pronouns: she/her
 ---
 
