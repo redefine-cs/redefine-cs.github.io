@@ -2,7 +2,7 @@
 name: Enzo Bergamo
 role: Teaching Assistant
 email:
-website: enzobergamo.com
+website: https://enzobergamo.com
 photo: /assets/images/enzo.png
 pronouns: he/him
 ---
