@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 2021 Staff
+title: Program Staff
 nav_order: 2
 description: A listing of all the program staff members.
 ---
 
-# Program Staff
+# 2021 Staff
 
 Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
 
