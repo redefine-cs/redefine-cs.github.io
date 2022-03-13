@@ -18,7 +18,7 @@ description: >-
 ---
 
 ## Requirements
-**redefine** is completely free for students. This program is intended for students who have no prior coding experience.
+**redefine** is completely free and is intended for students who have no prior coding experience.
 
 For homework and in-class exercises, we will be using [Google Colaboratory](https://colab.research.google.com) and Google Docs. To use Colaboratory and Google Docs, you will need a Google (Gmail) account or [create one](https://support.google.com/accounts/answer/27441?hl=en) if you do not already have an account. If you’d like to get acclimated with Colaboratory, you can find instructions on getting started [here](https://colab.research.google.com/notebooks/intro.ipynb), but feel free to wait as we’ll be introducing it during our first lecture.
 
