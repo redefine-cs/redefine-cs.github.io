@@ -26,7 +26,7 @@ description: >-
 <br>
 ![png](assets/illustrations/frontpage.png)
 ## Program Description
-**redefine** is a free, virtual summer program targeted at high schoolers, specifically rising juniors and seniors, but all years are welcome. Motivated by a vision of a more equitable and ethical tech industry, we seek to encourage more high schoolers to enter the space feeling confident and prepared, especially those students who may have never considered it before.
+**redefine** is a free summer program targeted at high schoolers, specifically rising sophomores and juniors, but all years are welcome. Motivated by a vision of a more equitable and ethical tech industry, we seek to encourage more high schoolers to enter the space feeling confident and prepared, especially those students who may have never considered it before.
 
 Despite the numerous innovations, high-growth startups, and venture-capital boom we have witnessed over the past few decades, the computer science community remains [very homogenous](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/). However, here at **redefine** we are hopeful that this cycle can be broken by exposing students to technical tools and theoretical concepts at a younger age and by embracing diversity in the field earlier on.
 
