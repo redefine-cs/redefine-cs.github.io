@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Application Form
-nav_order: 4
+nav_exclude: true
 description: Application form for the Summer 2021 program.
 ---
 
