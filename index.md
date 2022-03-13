@@ -19,9 +19,9 @@ description: >-
 <span style="font-size:1em; font-weight: 200; color:#27262b"> an introductory computer science summer program for high schoolers</span> 
   </p>
 
-{% if site.announcements %}
+<!-- {% if site.announcements %}
 {{ site.announcements.last }}
-{% endif %}
+{% endif %} -->
 
 <br>
 ![png](assets/illustrations/frontpage.png)
@@ -32,4 +32,4 @@ Despite the numerous innovations, high-growth startups, and venture-capital boom
 
 We believe in the power of *personalized* education as a meaningful way to sustainably impact learning and personal development. The **redefine** program will always use live instruction and encourage community-building through group-work whenever possible. Moreover, instruction will be supplemented by guest-speakers and talks that will highlight how computer science permeates many industries.
 
-The course will run from June 26th until August 14th. For more information about [the program](program) and [the staff](staff), check out the links on the left.
+For more information about [the program](program) and [the staff](staff), check out the links on the left.
