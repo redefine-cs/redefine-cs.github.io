@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interest Form
-nav_exclude: false
+nav_order: 2
 description: Interest form for the Summer 2023 program.
 ---
 
