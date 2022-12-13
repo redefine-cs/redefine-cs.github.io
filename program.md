@@ -26,7 +26,7 @@ If you need help with any of the above, please reach out to us at `redefinecs.st
 
 ## Program Structure
 
-Summer 2022 program details to be released. In 2021, the program ran from June 26th until August 14th. Each week, we had 4 hours of lecture-based instruction, 2 hours of interactive coding sessions, and 1 hour of interdisciplinary talks. Additionally, students spent roughly 5 hours each week working on homework, with optional collaborative work sessions hosted throughout the week. Lectures were held on Wednesday evening (5-7pm Pacific Time) and Saturday morning (10am-noon Pacific Time). 
+Summer 2023 program details to be released. In 2021, the program ran from June 26th until August 14th. Each week, we had 4 hours of lecture-based instruction, 2 hours of interactive coding sessions, and 1 hour of interdisciplinary talks. Additionally, students spent roughly 5 hours each week working on homework, with optional collaborative work sessions hosted throughout the week. Lectures were held on Wednesday evening (5-7pm Pacific Time) and Saturday morning (10am-noon Pacific Time). 
 
 Each student was also assigned a mentor, with whom they met on a weekly basis to review progress and discuss learning goals. Mentorship sessions were 1 hour each week at self-scheduled times based on mentor/student availability.
 
