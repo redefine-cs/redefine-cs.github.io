@@ -5,9 +5,9 @@ nav_order: 3
 description: A listing of all the program staff members.
 ---
 
-# 2021 Staff
+# Program Staff
 
-Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
+More details on 2023 staff coming soon. Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
 
 ## Instructors
 
@@ -16,22 +16,16 @@ Please reach out to `redefinecs.staff@gmail.com` if you have any general questio
 {{ staffer }}
 {% endfor %}
 
-## Teaching Assistants
+## 2021 Teaching Assistants
 
 {% assign assistant = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% for staffer in assistant %}
 {{ staffer }}
 {% endfor %}
 
-## Mentors
+## 2021 Mentors
 
 {% assign mentors = site.staffers | where: 'role', 'Mentor' %}
 {% for staffer in mentors %}
-{{ staffer }}
-{% endfor %}
-
-## Operations
-{% assign ops = site.staffers | where: 'role', 'Operations' %}
-{% for staffer in ops %}
 {{ staffer }}
 {% endfor %}
