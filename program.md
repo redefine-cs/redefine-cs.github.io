@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program Details
-nav_order: 1
+nav_order: 2
 description: >-
     Program policies and information.
 ---
@@ -26,9 +26,15 @@ If you need help with any of the above, please reach out to us at `redefinecs.st
 
 ## Program Structure
 
-Summer 2023 program details to be released. In 2021, the program ran from June 26th until August 14th. Each week, we had 4 hours of lecture-based instruction, 2 hours of interactive coding sessions, and 1 hour of interdisciplinary talks. Additionally, students spent roughly 5 hours each week working on homework, with optional collaborative work sessions hosted throughout the week. Lectures were held on Wednesday evening (5-7pm Pacific Time) and Saturday morning (10am-noon Pacific Time). 
+With instruction, take home assignments, and independent material review, the total commitment for students should amount to roughly 15 hours per week from June 28 to August 12.
 
-Each student was also assigned a mentor, with whom they met on a weekly basis to review progress and discuss learning goals. Mentorship sessions were 1 hour each week at self-scheduled times based on mentor/student availability.
+- 8 hrs total in-person over two sessions (with lecture, interdisciplinary guest speaker talks)
+- 1.5 hr virtual interactive coding lab sessions
+- 0.5 hr virtual homework check-ins
+- 4-6 hrs of homework collaboration with a fellow student
+- 1-3 hrs optional virtual material review (office hours, review sessions, etc.)
+
+Our lecture calendar and in-person locations are still being finalized.
 
 ## Testimonials
 
