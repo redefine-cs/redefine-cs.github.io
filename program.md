@@ -26,15 +26,13 @@ If you need help with any of the above, please reach out to us at `redefinecs.st
 
 ## Program Structure
 
-With instruction, take home assignments, and independent material review, the total commitment for students should amount to roughly 15 hours per week from June 28 to August 12.
+With instruction, take home assignments, and independent material review, the total commitment for students should amount to roughly 10 hours per week from July 5 to August 9.
 
-- 8 hrs total in-person over two sessions (with lecture, interdisciplinary guest speaker talks)
-- 1.5 hr virtual interactive coding lab sessions
-- 0.5 hr virtual homework check-ins
-- 4-6 hrs of homework collaboration with a fellow student
-- 1-3 hrs optional virtual material review (office hours, review sessions, etc.)
+- 4 hrs of lectures (split over two sessions)
+- ~4 hrs of homework collaboration with a fellow student
+- ~1-3 hrs optional virtual material review (office hours, review sessions, etc.)
 
-Our lecture calendar and in-person locations are still being finalized.
+We may have a few optional in-person sessions in San Francisco for students to meet with each other
 
 ## Testimonials
 
