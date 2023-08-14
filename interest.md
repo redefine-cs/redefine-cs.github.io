@@ -4,6 +4,7 @@ title: Application
 nav_order: 1
 description: Application form for the Summer 2023 program.
 ---
+_Note: the application form may take a few seconds to load._
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed" src="https://airtable.com/embed/shrPo2TXEoaiLGwJz?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
