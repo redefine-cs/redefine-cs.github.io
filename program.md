@@ -32,7 +32,7 @@ With instruction, take home assignments, and independent material review, the to
 - ~4 hrs of homework collaboration with a fellow student
 - ~1-3 hrs optional virtual material review (office hours, review sessions, etc.)
 
-We may have a few optional in-person sessions in San Francisco for students to meet with each other
+We will have a few in-person lectures (dinner provided) in San Francisco for students to collaborate and learn with each other!
 
 ## Testimonials
 
