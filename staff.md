@@ -7,7 +7,7 @@ description: A listing of all the program staff members.
 
 # Program Staff
 
-Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
+This page will be updated with 2024 staff in late spring. Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
 
 ## 2023 Instructors
 
