@@ -17,6 +17,8 @@ description: >-
 
 ---
 
+These are details from the 2023 **redefine** summer program. 2024 summer program details are coming soon.
+
 ## Requirements
 **redefine** is completely free and is intended for students who have no prior coding experience.
 
