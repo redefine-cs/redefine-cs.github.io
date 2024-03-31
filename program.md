@@ -24,7 +24,7 @@ These are details from the 2023 **redefine** summer program. 2024 summer program
 
 For homework and in-class exercises, we will be using [Google Colaboratory](https://colab.research.google.com) and Google Docs. To use Colaboratory and Google Docs, you will need a Google (Gmail) account or [create one](https://support.google.com/accounts/answer/27441?hl=en) if you do not already have an account. If you’d like to get acclimated with Colaboratory, you can find instructions on getting started [here](https://colab.research.google.com/notebooks/intro.ipynb), but feel free to wait as we’ll be introducing it during our first lecture.
 
-If you need help with any of the above, please reach out to us at `redefinecs.staff@gmail.com`. We will do our best to accommodate any technology or connectivity issues.
+If you need help with any of the above, please reach out to us at `staff@redefine-cs.org`. We will do our best to accommodate any technology or connectivity issues.
 
 ## Program Structure
 
