@@ -7,7 +7,7 @@ description: A listing of all the program staff members.
 
 # Program Staff
 
-This page will be updated with 2024 staff in spring 2024. Please reach out to `redefinecs.staff@gmail.com` if you have any general questions.
+This page will be updated with 2024 staff in spring 2024. Please reach out to `staff@redefine-cs.org` if you have any general questions.
 
 ## 2023 Instructors
 
