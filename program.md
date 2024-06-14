@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program Details
-nav_order: 2
+nav_order: 1
 description: >-
     Program policies and information.
 ---
