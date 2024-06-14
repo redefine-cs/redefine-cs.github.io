@@ -5,6 +5,8 @@ email: mprakasam@berkeley.edu
 website: https://www.linkedin.com/in/manu-prakasam/
 photo: /assets/images/manu.jpeg
 pronouns: he/him
+active: true
+order: 1
 ---
 
 

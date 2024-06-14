@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Program Staff
-nav_order: 3
+nav_order: 2
 description: A listing of all the program staff members.
 ---
 
 # Program Staff
 
-This page will be updated with 2024 staff in spring 2024. Please reach out to `staff@redefine-cs.org` if you have any general questions.
+Please reach out to `staff@redefine-cs.org` if you have any general questions.
 
-## 2023 Instructors
+## 2024 Instructors
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Instructor' | where: 'active', true | sort: 'order' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}

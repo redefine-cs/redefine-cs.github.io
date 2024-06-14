@@ -32,4 +32,4 @@ Despite the numerous innovations, high-growth startups, and venture-capital boom
 
 We believe in the power of *personalized* education as a meaningful way to sustainably impact learning and personal development. The **redefine** program will always use live instruction and encourage community-building through group-work whenever possible. Moreover, instruction will be supplemented by guest-speakers and talks that will highlight how computer science permeates many industries.
 
-For more information about [the program](program) and [the staff](staff), check out the links on the left.
+Learn more about the program [here](program) and the staff [here](staff).

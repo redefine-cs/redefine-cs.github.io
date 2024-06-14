@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program Details
-nav_order: 2
+nav_order: 1
 description: >-
     Program policies and information.
 ---
@@ -17,28 +17,25 @@ description: >-
 
 ---
 
-These are details from the 2023 **redefine** summer program. 2024 summer program details are coming soon.
 
 ## Requirements
 **redefine** is completely free and is intended for students who have no prior coding experience.
 
-For homework and in-class exercises, we will be using [Google Colaboratory](https://colab.research.google.com) and Google Docs. To use Colaboratory and Google Docs, you will need a Google (Gmail) account or [create one](https://support.google.com/accounts/answer/27441?hl=en) if you do not already have an account. If you’d like to get acclimated with Colaboratory, you can find instructions on getting started [here](https://colab.research.google.com/notebooks/intro.ipynb), but feel free to wait as we’ll be introducing it during our first lecture.
+For homework and in-class exercises, we will be using [Google Colab](https://colab.research.google.com) and Google Docs. To use Colaboratory and Google Docs, you will need a Google (Gmail) account or [create one](https://support.google.com/accounts/answer/27441?hl=en) if you do not already have an account. If you’d like to get acclimated with Colab, you can find instructions on getting started [here](https://colab.research.google.com/notebooks/intro.ipynb), but feel free to wait as we’ll be introducing it during our first lecture.
 
 If you need help with any of the above, please reach out to us at `staff@redefine-cs.org`. We will do our best to accommodate any technology or connectivity issues.
 
 ## Program Structure
 
-With instruction, take home assignments, and independent material review, the total commitment for students should amount to roughly 10 hours per week from July 5 to August 9.
+With instruction, take home assignments, and independent material review, the total commitment for students should amount to roughly 6-9 hours per week from June 17 to August 12.
 
-- 4 hrs of lectures (split over two sessions)
-- ~4 hrs of homework collaboration with a fellow student
-- ~1-3 hrs optional virtual material review (office hours, review sessions, etc.)
-
-We will have a few in-person lectures (dinner provided) in San Francisco for students to collaborate and learn with each other!
+- 4 hrs of lectures (two hours on Mondays, two hours on Wednesdays)
+- ~2-4 hrs of homework collaboration
+- 30 min 1-1 mentorship call 
 
 ## Testimonials
 
-We ran our inaugural program in the summer of 2020. We had a phenomenal batch of students in the first session — we are excited to share some student thoughts from the 2020 exit survey.
+We ran our inaugural program in the summer of 2020. Here's some feedback from past students:
 
 - *"[My favorite part was] learning to code, it's like a whole new world! It really opened my eyes to new possibilities and maybe a new major interest. Also, meeting new people."*
 - *"[I enjoyed] the love and support shared to us by the instructors and mentors. The lectures were given in an organised way. The guest speeches were very helpful and interesting. We got to meet new friendly community."*
